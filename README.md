@@ -11,13 +11,13 @@ Demonstrate performance improvement through hardware acceleration.
 Understand datapath, control logic, and instruction decoding in processor design.
 
 **Key Features**
-✅ RV32I base instruction set support
-✅ Single-cycle execution (1 instruction per clock cycle)
-✅ Modular datapath design
-✅ Custom instruction decoding for accelerator
-✅ Hardware accelerator integration at ISA level
-✅ Verilog/SystemVerilog implementation
-✅ Testbench for functional verification
+- RV32I base instruction set support
+- Single-cycle execution (1 instruction per clock cycle)
+- Modular datapath design
+- Custom instruction decoding for accelerator
+- Hardware accelerator integration at ISA level
+- Verilog/SystemVerilog implementation
+- Testbench for functional verification
 
 **Architecture**
 1. Core Components
